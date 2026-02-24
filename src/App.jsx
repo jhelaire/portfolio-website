@@ -16,7 +16,6 @@ export default function App() {
         <Projects />
         <Experience />
         <Education />
-        <Involvement />
         <Contact />
       </main>
       <Footer />
