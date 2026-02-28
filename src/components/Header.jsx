@@ -5,7 +5,6 @@ const links = [
   { label: "Projects", href: "#projects" },
   { label: "Experience", href: "#experience" },
   { label: "Education", href: "#education" },
-  { label: "Involvement", href: "#involvement" },
   { label: "Contact", href: "#contact" },
 ];
 
@@ -47,7 +46,7 @@ export default function Header() {
             </a>
           ))}
           <a
-            href="/resume.pdf"
+            href="/Jordan M Helaire_Resume 2026.pdf"
             className="rounded-lg border border-white/20 px-3 py-1.5 text-sm text-white hover:border-white/40"
           >
             Resume

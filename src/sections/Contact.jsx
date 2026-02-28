@@ -6,7 +6,7 @@ export default function Contact() {
           Contact
         </h2>
         <p className="mt-4 text-white/70">
-          Email me at your@email.com
+          Email me at jmhelaire@yahoo.com
         </p>
       </div>
     </section>
