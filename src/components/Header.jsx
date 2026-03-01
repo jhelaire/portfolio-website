@@ -34,7 +34,6 @@ export default function Header() {
           Jordan Helaire
         </a>
 
-        {/* Desktop nav */}
         <nav className="hidden md:flex items-center gap-6">
           {links.map((l) => (
             <a
@@ -46,7 +45,7 @@ export default function Header() {
             </a>
           ))}
           <a
-            href="/Jordan M Helaire_Resume 2026.pdf"
+            href="./Jordan M Helaire_Resume 2026.pdf"
             className="rounded-lg border border-white/20 px-3 py-1.5 text-sm text-white hover:border-white/40"
           >
             Resume
